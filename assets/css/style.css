@@ -1,5 +1,6 @@
 body {
     background-image: url("../images/food.jpg");
+    color: white;
   }
   
   .buttons,
@@ -7,7 +8,7 @@ body {
   #add-food
   {
     margin: 5px;
-    border: 2px solid blue;
+    border: 2px solid orange;
   }
   
   #food-div {
@@ -16,27 +17,28 @@ body {
   }
   
   #gif-buttons {
+    color: white;
     margin-top: 20px;
     margin-bottom: 20px;
   }
   
   .pic {
-    border: 2px solid blue;
+    border: 2px solid orange;
   }
   
   .rating {
     margin-bottom: 5px;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Comic Sans', bold;
     text-align: left;
   }
   
   .display-4 {
-    font-family: 'Pacifico', cursive;
+    font-family: 'Pacifico', bold;
   }
   
   #food-label {
     font-size: 24px;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Pacifico', bold;
   }
   
   #food-form {
@@ -49,7 +51,7 @@ body {
   }
   
   .text-heading {
-    background-color: blue;
+    background-color: orange;
   }
   
   .jumbotron-fluid {
